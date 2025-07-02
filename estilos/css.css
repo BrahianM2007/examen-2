@@ -28,6 +28,10 @@ body {
     align-items: center;
     gap: 20px;
 }
+.but{
+    color: black;
+    text-decoration: none;
+}
 
 .boton-rojo {
     background-color: #e8505b;
